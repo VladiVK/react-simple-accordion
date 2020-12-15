@@ -209,4 +209,6 @@ main {
   cursor: pointer;
   margin-left: 1rem;
   align-self: center;
+  /* remove outline after pressing */
+  outline: none;
 }
